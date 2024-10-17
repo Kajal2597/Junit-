@@ -25,4 +25,9 @@ public class CabCalculatefareTest {
         Assert.assertEquals(expectedvalue,actualvalue,0);
     }
 
+    public void m1(){
+
+    }
+
+
 }
