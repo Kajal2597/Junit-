@@ -1,4 +1,5 @@
 package org.example.junit;
+import org.junit.Assert;
 
 public class CutOffMarkCalculator {
 
