@@ -25,8 +25,5 @@ public class CutOffMarkCalculator {
         } else {
             return false;
         }
-
     }
-
-
 }

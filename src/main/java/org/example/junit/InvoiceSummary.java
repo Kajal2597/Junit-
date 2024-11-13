@@ -15,6 +15,7 @@ public class InvoiceSummary {
         this.totalFare = fare;
         this.avgFare=this.totalFare/this.noOfRides;
     }
+
     Map<Integer,InvoiceSummary>userId=new HashMap<>();
     public Map<Integer,InvoiceSummary> getUserId(){
         return userId;
